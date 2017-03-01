@@ -1,0 +1,71 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.boadc.ca" resolutions="1x" timestamp="1488316362562">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="466083938" ref="index"/>
+    <file name="index.css" crc="4280538363" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="4232573551" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="4152223963" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="phone>index:index"/>
+    <file name="require.js" crc="4234670167" ref="phone>index:index"/>
+    <file name="webpro.js" crc="3770351119" ref="index"/>
+    <file name="musewpdisclosure.js" crc="347705465" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="organlogoweb.png" crc="3974087199" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u172-4.png" crc="461397468" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="nova scotia.png" crc="58209973" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ontario.png" crc="136618494" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="quebec.png" crc="475794300" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="saskatchewan.png" crc="3998094285" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yukon.png" crc="178226081" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="alberta.png" crc="4061503989" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bc.png" crc="299712453" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="manitoba.png" crc="4229114322" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="new brunswick.png" crc="4070031608" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newfoundland and labrador.png" crc="418159591" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nunavut.png" crc="50797148" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="northwest territories.png" crc="530973919" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pei.png" crc="38096501" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fb-f-logo__blue_1024-u1174.png" crc="3924515942" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="62426684" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3933190347" seo="true" mt="1488312112593" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="129702457" seo="true" mt="1488316211132" redirect="true"/>
+</manifest>
